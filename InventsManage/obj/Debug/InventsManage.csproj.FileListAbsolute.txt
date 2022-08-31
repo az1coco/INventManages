@@ -1,0 +1,11 @@
+C:\Users\user\Documents\level 300\Sem 2\Programming II DCIT - 318\InventsManage\InventsManage\bin\Debug\InventsManage.exe.config
+C:\Users\user\Documents\level 300\Sem 2\Programming II DCIT - 318\InventsManage\InventsManage\bin\Debug\InventsManage.exe
+C:\Users\user\Documents\level 300\Sem 2\Programming II DCIT - 318\InventsManage\InventsManage\bin\Debug\InventsManage.pdb
+C:\Users\user\Documents\level 300\Sem 2\Programming II DCIT - 318\InventsManage\InventsManage\obj\Debug\InventsManage.csproj.AssemblyReference.cache
+C:\Users\user\Documents\level 300\Sem 2\Programming II DCIT - 318\InventsManage\InventsManage\obj\Debug\InventsManage.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\level 300\Sem 2\Programming II DCIT - 318\InventsManage\InventsManage\obj\Debug\InventsManage.Form1.resources
+C:\Users\user\Documents\level 300\Sem 2\Programming II DCIT - 318\InventsManage\InventsManage\obj\Debug\InventsManage.Properties.Resources.resources
+C:\Users\user\Documents\level 300\Sem 2\Programming II DCIT - 318\InventsManage\InventsManage\obj\Debug\InventsManage.csproj.GenerateResource.cache
+C:\Users\user\Documents\level 300\Sem 2\Programming II DCIT - 318\InventsManage\InventsManage\obj\Debug\InventsManage.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\level 300\Sem 2\Programming II DCIT - 318\InventsManage\InventsManage\obj\Debug\InventsManage.exe
+C:\Users\user\Documents\level 300\Sem 2\Programming II DCIT - 318\InventsManage\InventsManage\obj\Debug\InventsManage.pdb
